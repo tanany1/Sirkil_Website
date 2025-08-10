@@ -4,9 +4,9 @@ const projectsData = [
     title: "Branding Campaign Launch",
     category: "Branding",
     thumbnail: "https://raw.githubusercontent.com/tanany1/Sirkil_Website/main/Think Bigger PediaSure Dec/New folder/_53A5020.jpg",
-    hasVideo: true,
+    hasVideo: false,
     description: "This branding project focused on delivering a modern identity for the client with both print and digital assets.",
-    slideshow: ["IMAGE_URL_1", "IMAGE_URL_2", "IMAGE_URL_3"],
+    slideshow: ["https://raw.githubusercontent.com/tanany1/Sirkil_Website/main/Think Bigger PediaSure Dec/New folder/_53A5020.jpg", "https://raw.githubusercontent.com/tanany1/Sirkil_Website/main/Think Bigger PediaSure Dec/New folder/_53A5020.jpg", "IMAGE_URL_3"],
     video: "VIDEO_URL.mp4"
   },
   {
