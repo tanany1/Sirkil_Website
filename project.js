@@ -83,7 +83,7 @@ const projectsData = [
     id: "branding9",
     title: "APEX",
     category: "Branding",
-    thumbnail: "https://raw.githubusercontent.com/Sirkil/Sirkil_Website_Media/main/Branding/APEX/1.png",
+    thumbnail: "https://raw.githubusercontent.com/Sirkil/Sirkil_Website_Media/tree/main/Branding/APEX/1.png",
     hasVideo: false,
     description: "",
     slideshow: [],
