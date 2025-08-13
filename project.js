@@ -3,7 +3,7 @@ const projectsData = [
     id: "branding1",
     title: "Sakab Sport",
     category: "Branding",
-    thumbnail: "https://raw.githubusercontent.com/Sirkil/Sirkil_Website_Media/main/Branding/Sakab%20Sport%20Dec/1.png",
+    thumbnail: "https://raw.githubusercontent.com/Sirkil/Sirkil_Website_Media/main/Branding/Sakab%20Sport/1.png",
     hasVideo: false,
     description: "",
     slideshow: ["IMAGE_URL_1", "IMAGE_URL_2","IMAGE_URL_3"],
